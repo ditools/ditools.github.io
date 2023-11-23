@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 02:37:05 EET 2023
+Last updated: Thu Nov 23 02:47:54 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -11,6 +11,4 @@ Users on linux07:
 sdi1900023 ALEKSANDROS VERYKOKOS
 
 Users on linux14:
-sdi2300208 NIKOLAOS TSOYLOS
-sdi2300208 NIKOLAOS TSOYLOS
 sdi2300208 NIKOLAOS TSOYLOS
