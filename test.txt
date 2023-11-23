@@ -1,34 +1,23 @@
-Last updated: Thu Nov 23 09:55:04 EET 2023
+Last updated: Thu Nov 23 16:17:34 EET 2023
 
 Users on linux01:
+sdi2100089 ELEANA LYTI
 guest010 Temporary account
 guest009 Temporary account
 
-Users on linux02:
-guest101 Temporary account
-
-Users on linux03:
+Users on linux10:
 sdi2300208 NIKOLAOS TSOYLOS
-guest101 Temporary account
 
-Users on linux04:
-guest101 Temporary account
+Users on linux12:
+sdi1800157 IWANNIS PETRAKIS
+sdi2300009 DIMITRIOS ANDRONIOTIS
 
-Users on linux05:
-guest101 Temporary account
-
-Users on linux06:
-guest101 Temporary account
-
-Users on linux07:
-guest101 Temporary account
-
-Users on linux08:
-guest101 Temporary account
-
-Users on linux14:
-sdi2300208 NIKOLAOS TSOYLOS
+Users on linux23:
+sdi2300012 CHRISTOS ATSAVES
 
 Users on linux28:
-sdi2100074 MIXAIL KYRIAKAKOS
 ad Alex Delis
+
+Users on linux29:
+sdi2100071 MIKAELA KOULLOLLI
+sdi1900200 EVAGGELIA-AIKATERINI TSIXRINTZI
