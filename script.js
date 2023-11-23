@@ -3,7 +3,7 @@ function getFullName() {
   const fullNameResult = document.getElementById('fullNameResult');
   const sdi = sdiInput.value.trim().toLowerCase();
   if (!sdi) {
-    return; // Exit the function if the input is empty
+    return;
   }
   fetch('./data.txt')
     .then(response => response.text())
