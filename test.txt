@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 01:53:35 EET 2023
+Last updated: Fri Nov 24 01:58:49 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -12,9 +12,6 @@ sdi1900023 ALEKSANDROS VERYKOKOS
 
 Users on linux10:
 thanassis Thanassis Avgerinos
-
-Users on linux11:
-sdi1800007 IWANNIS ANAGNWSTOPOULOS
 
 Users on linux20:
 sdi2100166 XRISTOS PRINTZIOS
