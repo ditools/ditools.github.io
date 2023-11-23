@@ -1,16 +1,21 @@
-Last updated: Thu Nov 23 21:31:59 EET 2023
+Last updated: Thu Nov 23 21:37:14 EET 2023
 
 Users on linux01:
+ea22208 Angeliki Pantiora
 sdi1700135 LEWNIDAS-MARKELLOS SARLAS
 guest010 Temporary account
 guest009 Temporary account
 
 Users on linux07:
+sdi2300201 MICHAIL TRIKAMINAS
 sdi2200283 XRYSANTHI GKESIOU
 sdi1900023 ALEKSANDROS VERYKOKOS
 
 Users on linux08:
 sdi2100294 Panagiotis Kappas
+
+Users on linux09:
+sdi2100154 KWNSTANTINOS PETRAKIS
 
 Users on linux12:
 sdi1800157 IWANNIS PETRAKIS
