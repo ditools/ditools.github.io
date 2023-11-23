@@ -1,8 +1,11 @@
-Last updated: Thu Nov 23 18:34:05 EET 2023
+Last updated: Thu Nov 23 18:39:20 EET 2023
 
 Users on linux01:
 guest010 Temporary account
 guest009 Temporary account
+
+Users on linux03:
+sdi2000058 ORESTIS THEODWROU
 
 Users on linux04:
 std05073 Emmanouil Vafidis
@@ -10,8 +13,8 @@ std05073 Emmanouil Vafidis
 Users on linux07:
 sdi1900023 ALEKSANDROS VERYKOKOS
 
-Users on linux09:
-sdi2100154 KWNSTANTINOS PETRAKIS
+Users on linux08:
+sdi2200284 ALEKSANDROS GKIAFIS
 
 Users on linux12:
 sdi2200014 ZISIMOS VAKRAS
