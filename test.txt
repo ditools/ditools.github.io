@@ -1,5 +1,34 @@
-Last updated: Thu Nov 23 09:52:27 EET 2023
+Last updated: Thu Nov 23 09:55:04 EET 2023
 
 Users on linux01:
 guest010 Temporary account
 guest009 Temporary account
+
+Users on linux02:
+guest101 Temporary account
+
+Users on linux03:
+sdi2300208 NIKOLAOS TSOYLOS
+guest101 Temporary account
+
+Users on linux04:
+guest101 Temporary account
+
+Users on linux05:
+guest101 Temporary account
+
+Users on linux06:
+guest101 Temporary account
+
+Users on linux07:
+guest101 Temporary account
+
+Users on linux08:
+guest101 Temporary account
+
+Users on linux14:
+sdi2300208 NIKOLAOS TSOYLOS
+
+Users on linux28:
+sdi2100074 MIXAIL KYRIAKAKOS
+ad Alex Delis
