@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 18:18:25 EET 2023
+Last updated: Thu Nov 23 18:23:38 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -6,6 +6,9 @@ guest009 Temporary account
 
 Users on linux07:
 sdi1900023 ALEKSANDROS VERYKOKOS
+
+Users on linux09:
+sdi2100154 KWNSTANTINOS PETRAKIS
 
 Users on linux11:
 sdi1700128 DIMITRIOS POLITIS
