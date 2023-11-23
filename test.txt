@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 21:37:14 EET 2023
+Last updated: Thu Nov 23 21:42:27 EET 2023
 
 Users on linux01:
 ea22208 Angeliki Pantiora
@@ -22,7 +22,6 @@ sdi1800157 IWANNIS PETRAKIS
 
 Users on linux13:
 sdi2300090 IOANNIS KOYTROYMPELIS
-sdi2300075 DIONYSIOS-IOANNIS KLAYDIANOS
 
 Users on linux18:
 sdi2300173 KONSTANTINOS POYLAKIS
