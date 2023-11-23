@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 20:13:31 EET 2023
+Last updated: Thu Nov 23 20:18:44 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -22,8 +22,8 @@ Users on linux13:
 sdi2100048 ARISTARXOS KALOUTSAS
 sdi2300090 IOANNIS KOYTROYMPELIS
 
-Users on linux17:
-sdi2300173 KONSTANTINOS POYLAKIS
+Users on linux22:
+sdi2200043 ARGYRW DROUKOPOULOU
 
 Users on linux23:
 sdi2000103 ALEKSANDROS-EVGENIOS KRANTOK
