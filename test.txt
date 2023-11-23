@@ -1,9 +1,8 @@
-Last updated: Thu Nov 23 23:27:05 EET 2023
+Last updated: Thu Nov 23 23:32:20 EET 2023
 
 Users on linux01:
 sdi2000072 NEFELI KASA
 guest010 Temporary account
-sdi2000072 NEFELI KASA
 guest009 Temporary account
 
 Users on linux07:
@@ -11,9 +10,6 @@ sdi1900023 ALEKSANDROS VERYKOKOS
 
 Users on linux08:
 sdi2100294 Panagiotis Kappas
-
-Users on linux09:
-sdi2100154 KWNSTANTINOS PETRAKIS
 
 Users on linux10:
 thanassis Thanassis Avgerinos
