@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 01:48:22 EET 2023
+Last updated: Fri Nov 24 01:53:35 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -8,7 +8,6 @@ Users on linux06:
 sdi2100122 PAVLOS NTAIS
 
 Users on linux07:
-sdi2300201 MICHAIL TRIKAMINAS
 sdi1900023 ALEKSANDROS VERYKOKOS
 
 Users on linux10:
@@ -16,10 +15,6 @@ thanassis Thanassis Avgerinos
 
 Users on linux11:
 sdi1800007 IWANNIS ANAGNWSTOPOULOS
-sdi2300020 ILIAS GASPARINATOS
-
-Users on linux12:
-sdi1800157 IWANNIS PETRAKIS
 
 Users on linux20:
 sdi2100166 XRISTOS PRINTZIOS
