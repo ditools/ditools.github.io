@@ -1,11 +1,15 @@
-Last updated: Thu Nov 23 16:23:20 EET 2023
+Last updated: Thu Nov 23 16:28:33 EET 2023
 
 Users on linux01:
 sdi2100089 ELEANA LYTI
 guest010 Temporary account
 guest009 Temporary account
 
+Users on linux03:
+sdi2000058 ORESTIS THEODWROU
+
 Users on linux12:
+sdi2200014 ZISIMOS VAKRAS
 sdi1800157 IWANNIS PETRAKIS
 sdi2300009 DIMITRIOS ANDRONIOTIS
 
