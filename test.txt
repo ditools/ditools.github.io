@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 23:37:33 EET 2023
+Last updated: Thu Nov 23 23:42:48 EET 2023
 
 Users on linux01:
 sdi2000072 NEFELI KASA
@@ -22,6 +22,7 @@ sdi2100288 Kwnstantinos Stergiou
 
 Users on linux20:
 sdi2300168 KONSTANTINOS-RAFAIL PENTARAKIS
+sdi2100166 XRISTOS PRINTZIOS
 
 Users on linux22:
 sdi2200043 ARGYRW DROUKOPOULOU
