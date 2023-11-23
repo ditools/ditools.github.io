@@ -1,8 +1,7 @@
-Last updated: Thu Nov 23 23:11:24 EET 2023
+Last updated: Thu Nov 23 23:16:37 EET 2023
 
 Users on linux01:
 sdi2000072 NEFELI KASA
-sdi1700135 LEWNIDAS-MARKELLOS SARLAS
 guest010 Temporary account
 sdi2000072 NEFELI KASA
 guest009 Temporary account
