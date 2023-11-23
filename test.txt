@@ -1,5 +1,17 @@
-Last updated: Thu Nov 23 09:06:14 EET 2023
+Last updated: Thu Nov 23 09:11:23 EET 2023
 
 Users on linux01:
 guest010 Temporary account
 guest009 Temporary account
+
+Users on linux02:
+guest101 Temporary account
+
+Users on linux03:
+guest101 Temporary account
+
+Users on linux04:
+guest101 Temporary account
+
+Users on linux14:
+sdi2300208 NIKOLAOS TSOYLOS
