@@ -2,6 +2,9 @@ function getSdiByFullName() {
   const nameInput = document.getElementById('nameInput');
   const sdiResult = document.getElementById('sdiResult');
   const name = nameInput.value.trim().toLowerCase();
+  if (!name) {
+    return; // Exit the function if the input is empty
+  }
   fetch('./data.txt')
     .then(response => response.text())
     .then(data => {
