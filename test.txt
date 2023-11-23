@@ -1,11 +1,8 @@
-Last updated: Thu Nov 23 20:18:44 EET 2023
+Last updated: Thu Nov 23 20:23:59 EET 2023
 
 Users on linux01:
 guest010 Temporary account
 guest009 Temporary account
-
-Users on linux04:
-std05073 Emmanouil Vafidis
 
 Users on linux07:
 sdi2200283 XRYSANTHI GKESIOU
@@ -21,6 +18,9 @@ sdi1800157 IWANNIS PETRAKIS
 Users on linux13:
 sdi2100048 ARISTARXOS KALOUTSAS
 sdi2300090 IOANNIS KOYTROYMPELIS
+
+Users on linux18:
+sdi2300173 KONSTANTINOS POYLAKIS
 
 Users on linux22:
 sdi2200043 ARGYRW DROUKOPOULOU
