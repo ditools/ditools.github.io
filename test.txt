@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 21:47:42 EET 2023
+Last updated: Thu Nov 23 21:52:55 EET 2023
 
 Users on linux01:
 sdi1700135 LEWNIDAS-MARKELLOS SARLAS
@@ -14,6 +14,10 @@ sdi2100294 Panagiotis Kappas
 
 Users on linux09:
 sdi2100154 KWNSTANTINOS PETRAKIS
+
+Users on linux10:
+sdi2300088 ALEXANDROS KOYRSARIS
+thanassis Thanassis Avgerinos
 
 Users on linux12:
 sdi2300206 KONSTANTINOS TSITSILONIS
