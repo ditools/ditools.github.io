@@ -1,4 +1,4 @@
-Last updated: Thu Nov 23 22:19:05 EET 2023
+Last updated: Thu Nov 23 22:24:18 EET 2023
 
 Users on linux01:
 sdi2000072 NEFELI KASA
@@ -23,11 +23,9 @@ Users on linux10:
 thanassis Thanassis Avgerinos
 
 Users on linux12:
-sdi2300206 KONSTANTINOS TSITSILONIS
 sdi1800157 IWANNIS PETRAKIS
 
 Users on linux13:
-sdi2300075 DIONYSIOS-IOANNIS KLAYDIANOS
 sdi2300090 IOANNIS KOYTROYMPELIS
 
 Users on linux17:
