@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 15:47:41 EET 2023
+Last updated: Fri Nov 24 15:52:46 EET 2023
 
 
 Users on linux03:
@@ -35,7 +35,6 @@ SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 195.134.65.101
 
 Users on linux18:
 GEORGIOS SIAFARIKAS with username: sdi2300183 and IP address: 195.134.65.101
-KLEIO DROMAZOY with username: sdi2300042 and IP address: 195.134.65.101
 
 Users on linux22:
 MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 195.134.65.101
