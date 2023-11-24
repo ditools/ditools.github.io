@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 23:51:48 EET 2023
+Last updated: Fri Nov 24 23:56:55 EET 2023
 
 
 Users on linux02:
@@ -30,3 +30,4 @@ GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
 
 Users on linux29:
 MIKAELA KOULLOLLI with username: sdi2100071 and IP address: 79.130.83.232
+ANTREAS PAVLOU with username: sdi2100223 and IP address: 79.130.83.232
