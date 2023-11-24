@@ -1,8 +1,11 @@
-Last updated: Fri Nov 24 17:19:29 EET 2023
+Last updated: Fri Nov 24 17:24:34 EET 2023
 
 
 Users on linux02:
 PANTELEIMWN TSIXLAS with username: sdi2200198 and IP address: 94.65.117.20
+
+Users on linux03:
+STYLIANOS DIAMANTOPOYLOS with username: sdi2300039 and IP address: 195.134.65.101
 
 Users on linux06:
 STYLIANI STAMOU with username: sdi2200170 and IP address: localhost
@@ -26,4 +29,5 @@ Users on linux14:
 ALEXANDROS-GASPARIS GRIVAS with username: sdi2300035 and IP address: 195.134.65.101
 
 Users on linux24:
+VAIA KWSTARELLOU with username: sdi2200085 and IP address: localhost
 NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
