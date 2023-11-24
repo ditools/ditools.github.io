@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 13:30:07 EET 2023
+Last updated: Fri Nov 24 13:35:13 EET 2023
 
 Users on linux01:
 linlab Lin Lab
@@ -43,7 +43,6 @@ sdi2300212 LAZAROS CHAVATZOGLOY
 
 Users on linux28:
 linlab Lin Lab
-sdi2300105 ILIAS-STYLIANOS LYGAKIS
 
 Users on linux30:
 sdi2300047 ANTONIOS ZACHARAKIS
