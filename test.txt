@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 03:53:55 EET 2023
+Last updated: Fri Nov 24 03:59:08 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -6,9 +6,6 @@ guest009 Temporary account
 
 Users on linux10:
 thanassis Thanassis Avgerinos
-
-Users on linux20:
-sdi2100166 XRISTOS PRINTZIOS
 
 Users on linux29:
 sdi1900200 EVAGGELIA-AIKATERINI TSIXRINTZI
