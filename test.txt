@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 19:16:42 EET 2023
+Last updated: Fri Nov 24 19:21:49 EET 2023
 
 
 Users on linux02:
@@ -16,7 +16,6 @@ Panagiotis Kappas with username: sdi2100294 and IP address: 46.198.223.91
 PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux11:
-Michail Nikolitsis with username: sdi1400299 and IP address: 185.44.146.104
 MARIOS PATROS with username: sdi2200143 and IP address: 89.210.111.183
 
 Users on linux12:
@@ -25,6 +24,9 @@ Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 
 Users on linux17:
 NIKOLAOS AGGELIS with username: sdi1900306 and IP address: 88.197.88.105
+
+Users on linux22:
+Mema Roussopoulou with username: mema and IP address: 176.92.94.6
 
 Users on linux24:
 NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
