@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 11:22:07 EET 2023
+Last updated: Fri Nov 24 11:27:32 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -6,6 +6,12 @@ guest009 Temporary account
 
 Users on linux06:
 sdi2200170 STYLIANI STAMOU
+
+Users on linux08:
+sdi2300012 CHRISTOS ATSAVES
+
+Users on linux10:
+sdi1900054 EVGENIA DRAKOPOULOU
 
 Users on linux16:
 sdi2200076 STYLIANOS KOTERMAGER
