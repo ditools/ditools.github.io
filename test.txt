@@ -1,7 +1,5 @@
-Last updated: Fri Nov 24 22:35:28 EET 2023
+Last updated: Fri Nov 24 22:40:32 EET 2023
 
-Users on linux01:
-LEWNIDAS-MARKELLOS SARLAS with username: sdi1700135 and IP address: 2.84.197.73
 
 Users on linux02:
 PANTELEIMWN TSIXLAS with username: sdi2200198 and IP address: 94.65.117.20
