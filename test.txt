@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 10:25:17 EET 2023
+Last updated: Fri Nov 24 10:30:29 EET 2023
 
 Users on linux01:
 guest010 Temporary account
@@ -9,6 +9,9 @@ sdi2200170 STYLIANI STAMOU
 
 Users on linux10:
 sdi2300100 PANAGIOTIS KOSTOPOYLOS
+
+Users on linux22:
+sdi1900178 EFTHYMIOS STROUMPOULIS
 
 Users on linux28:
 sdi2300156 EMMANOYIL-GEORGIOS PANSINIS-KARACHALIOS
