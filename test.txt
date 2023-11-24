@@ -1,8 +1,5 @@
-Last updated: Fri Nov 24 14:46:23 EET 2023
+Last updated: Fri Nov 24 14:51:28 EET 2023
 
-
-Users on linux02:
-NEFELI KASA with username: sdi2000072 and IP address: 88.197.75.81
 
 Users on linux03:
 KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 88.197.75.81
@@ -12,7 +9,11 @@ STYLIANI STAMOU with username: sdi2200170 and IP address: 88.197.75.81
 XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 88.197.75.81
 
 Users on linux07:
+TILEMAXOS-PANAGIWTIS KWSTAKIS with username: sdi2100079 and IP address: 88.197.75.81
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 88.197.75.81
+
+Users on linux10:
+EVGENIA DRAKOPOULOU with username: sdi1900054 and IP address: 88.197.75.81
 
 Users on linux11:
 MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
@@ -20,6 +21,7 @@ MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
 Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 88.197.75.81
+Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 88.197.75.81
