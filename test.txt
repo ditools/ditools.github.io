@@ -1,8 +1,11 @@
-Last updated: Fri Nov 24 09:07:35 EET 2023
+Last updated: Fri Nov 24 09:12:45 EET 2023
 
 Users on linux01:
 guest010 Temporary account
 guest009 Temporary account
+
+Users on linux05:
+sdi2200216 ALKIVIADIS XONDROPOULOS
 
 Users on linux10:
 sdi2300100 PANAGIOTIS KOSTOPOYLOS
