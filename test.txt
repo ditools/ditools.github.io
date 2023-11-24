@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 15:32:20 EET 2023
+Last updated: Fri Nov 24 15:37:28 EET 2023
 
 
 Users on linux02:
@@ -9,6 +9,7 @@ KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 195.134.65.1
 
 Users on linux06:
 XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 195.134.65.101
+SPYRIDON MPENEKIS with username: sdi2300132 and IP address: 195.134.65.101
 
 Users on linux07:
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 195.134.65.101
@@ -33,7 +34,6 @@ Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 195.134.65.101
 
 Users on linux15:
-Nikos Perdikopanis with username: nikosp and IP address: 195.134.65.101
 SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 195.134.65.101
 
 Users on linux18:
