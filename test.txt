@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 23:16:11 EET 2023
+Last updated: Fri Nov 24 23:21:16 EET 2023
 
 
 Users on linux02:
@@ -16,6 +16,9 @@ EVGENIA DRAKOPOULOU with username: sdi1900054 and IP address: 94.66.57.167
 
 Users on linux11:
 MARIOS PATROS with username: sdi2200143 and IP address: 89.210.111.183
+
+Users on linux17:
+DIMITRIOS NIKOLAIDIS with username: sdi2300139 and IP address: 79.129.231.200
 
 Users on linux20:
 XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 94.67.32.106
