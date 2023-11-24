@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 00:57:58 EET 2023
+Last updated: Sat Nov 25 01:03:02 EET 2023
 
 
 Users on linux07:
@@ -18,6 +18,3 @@ XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 94.67.32.106
 
 Users on linux23:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
-
-Users on linux26:
-GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
