@@ -1,5 +1,8 @@
-Last updated: Fri Nov 24 15:11:53 EET 2023
+Last updated: Fri Nov 24 15:17:00 EET 2023
 
+
+Users on linux02:
+DIMITRIOS POLITIS with username: sdi1700128 and IP address: 
 
 Users on linux03:
 KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 
@@ -10,6 +13,9 @@ XRISTINA KOKKINAKI with username: sdi2000083 and IP address:
 
 Users on linux07:
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 
+
+Users on linux08:
+EVAGGELIA RAGKOUSI with username: sdi2200154 and IP address: 
 
 Users on linux10:
 PANAGIWTIS PATSIATZIS with username: sdi2200145 and IP address: 
@@ -25,12 +31,14 @@ IWANNIS PETRAKIS with username: sdi1800157 and IP address:
 Nikos Perdikopanis with username: nikosp and IP address: 
 
 Users on linux13:
-ORESTIS GKARANIS with username: sdi2200282 and IP address: 
+KLEIO DROMAZOY with username: sdi2300042 and IP address: 
 
 Users on linux15:
 Nikos Perdikopanis with username: nikosp and IP address: 
+SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 
 
 Users on linux18:
+GEORGIOS SIAFARIKAS with username: sdi2300183 and IP address: 
 KLEIO DROMAZOY with username: sdi2300042 and IP address: 
 
 Users on linux22:
