@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 18:10:26 EET 2023
+Last updated: Fri Nov 24 18:15:31 EET 2023
 
 
 Users on linux02:
@@ -34,11 +34,14 @@ Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Users on linux14:
 ALEXANDROS-GASPARIS GRIVAS with username: sdi2300035 and IP address: 195.134.65.101
 
-Users on linux18:
+Users on linux20:
 Lin Lab with username: linlab and IP address: 195.134.67.234
 
-Users on linux19:
+Users on linux21:
 Lin Lab with username: linlab and IP address: 195.134.67.234
 
 Users on linux24:
 NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
+
+Users on linux25:
+GEWRGIOS ZORPIDIS with username: sdi2000055 and IP address: 91.140.88.128
