@@ -1,11 +1,8 @@
-Last updated: Fri Nov 24 21:49:36 EET 2023
+Last updated: Fri Nov 24 21:54:43 EET 2023
 
 
 Users on linux02:
 PANTELEIMWN TSIXLAS with username: sdi2200198 and IP address: 94.65.117.20
-
-Users on linux04:
-MARIOS-EFSTRATIOS AXILIAS with username: sdi2000015 and IP address: 5.54.190.84
 
 Users on linux06:
 XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 193.92.83.212
