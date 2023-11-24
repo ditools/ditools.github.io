@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 19:06:31 EET 2023
+Last updated: Fri Nov 24 19:11:37 EET 2023
 
 
 Users on linux02:
@@ -31,3 +31,6 @@ NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
 
 Users on linux25:
 GEWRGIOS ZORPIDIS with username: sdi2000055 and IP address: 91.140.88.128
+
+Users on linux30:
+Lin Lab with username: linlab and IP address: 195.134.67.234
