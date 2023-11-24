@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 13:45:22 EET 2023
+Last updated: Fri Nov 24 13:50:26 EET 2023
 
 Users on linux01:
 linlab Lin Lab
@@ -12,7 +12,9 @@ sdi2000083 XRISTINA KOKKINAKI
 
 Users on linux10:
 sdi1900054 EVGENIA DRAKOPOULOU
-sdi1900054 EVGENIA DRAKOPOULOU
+
+Users on linux11:
+sdi2000032 MARIOS GIANNOPOULOS
 
 Users on linux12:
 nikosp Nikos Perdikopanis
