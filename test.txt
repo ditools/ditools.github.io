@@ -1,12 +1,14 @@
-Last updated: Fri Nov 24 12:03:10 EET 2023
+Last updated: Fri Nov 24 12:08:15 EET 2023
 
 Users on linux01:
 linlab Lin Lab
 linlab Lin Lab
-guest101 Temporary account
 
 Users on linux02:
 linlab Lin Lab
+
+Users on linux03:
+sdi1700128 DIMITRIOS POLITIS
 
 Users on linux06:
 sdi2200170 STYLIANI STAMOU
@@ -30,6 +32,9 @@ sdi2200120 DANAI NTWNTI
 
 Users on linux16:
 sdi2200076 STYLIANOS KOTERMAGER
+
+Users on linux17:
+sdi2200112 DIMITRIOS-NIKOLAOS MPOUTZOUNIS
 
 Users on linux18:
 sdi2200047 XRISTOS ZAXOS
