@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 15:52:46 EET 2023
+Last updated: Fri Nov 24 15:57:54 EET 2023
 
 
 Users on linux03:
@@ -32,9 +32,6 @@ NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 195.134.65.101
 
 Users on linux15:
 SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 195.134.65.101
-
-Users on linux18:
-GEORGIOS SIAFARIKAS with username: sdi2300183 and IP address: 195.134.65.101
 
 Users on linux22:
 MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 195.134.65.101
