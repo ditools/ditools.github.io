@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 15:22:06 EET 2023
+Last updated: Fri Nov 24 15:27:14 EET 2023
 
 
 Users on linux02:
@@ -21,6 +21,7 @@ EVAGGELIA RAGKOUSI with username: sdi2200154 and IP address: 195.134.65.101
 Users on linux10:
 PANAGIWTIS PATSIATZIS with username: sdi2200145 and IP address: 195.134.65.101
 EVGENIA DRAKOPOULOU with username: sdi1900054 and IP address: 195.134.65.101
+AIKATERINI FOTIA with username: sdi2300211 and IP address: 195.134.65.101
 
 Users on linux11:
 XRYSANTHI GKESIOU with username: sdi2200283 and IP address: 195.134.65.101
@@ -30,9 +31,6 @@ Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 195.134.65.101
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 195.134.65.101
 Nikos Perdikopanis with username: nikosp and IP address: 195.134.65.101
-
-Users on linux13:
-KLEIO DROMAZOY with username: sdi2300042 and IP address: 195.134.65.101
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 195.134.65.101
