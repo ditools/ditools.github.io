@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 17:39:52 EET 2023
+Last updated: Fri Nov 24 17:44:56 EET 2023
 
 
 Users on linux02:
@@ -9,7 +9,6 @@ STYLIANOS DIAMANTOPOYLOS with username: sdi2300039 and IP address: 195.134.65.10
 
 Users on linux06:
 STYLIANI STAMOU with username: sdi2200170 and IP address: localhost
-SPYRIDON MPENEKIS with username: sdi2300132 and IP address: 62.74.13.218
 
 Users on linux07:
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 2.84.222.116
@@ -26,6 +25,7 @@ Lin Lab with username: linlab and IP address: 195.134.67.234
 Michail Nikolitsis with username: sdi1400299 and IP address: 185.44.146.104
 
 Users on linux12:
+Lin Lab with username: linlab and IP address: 195.134.67.234
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 
