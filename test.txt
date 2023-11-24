@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 20:07:41 EET 2023
+Last updated: Fri Nov 24 20:12:48 EET 2023
 
 
 Users on linux02:
@@ -33,6 +33,9 @@ XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 79.129.101.122
 
 Users on linux22:
 Mema Roussopoulou with username: mema and IP address: 176.92.94.6
+
+Users on linux23:
+LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
 
 Users on linux24:
 NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
