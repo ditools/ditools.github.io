@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 15:06:48 EET 2023
+Last updated: Fri Nov 24 15:11:53 EET 2023
 
 
 Users on linux03:
@@ -30,11 +30,17 @@ ORESTIS GKARANIS with username: sdi2200282 and IP address:
 Users on linux15:
 Nikos Perdikopanis with username: nikosp and IP address: 
 
+Users on linux18:
+KLEIO DROMAZOY with username: sdi2300042 and IP address: 
+
 Users on linux22:
 MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 
 
 Users on linux24:
 THALIS APOSTOLATOS with username: sdi2300010 and IP address: 
+
+Users on linux29:
+EMMANOYIL KALISPERAKIS with username: sdi2300058 and IP address: 
 
 Users on linux30:
 ANTONIOS ZACHARAKIS with username: sdi2300047 and IP address: 
