@@ -1,8 +1,7 @@
-Last updated: Fri Nov 24 16:18:19 EET 2023
+Last updated: Fri Nov 24 16:23:24 EET 2023
 
 
 Users on linux06:
-XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 193.92.83.212
 SPYRIDON MPENEKIS with username: sdi2300132 and IP address: 62.74.13.218
 
 Users on linux07:
@@ -40,9 +39,6 @@ MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.74.218
 
 Users on linux23:
 PANTELIS KONTARIS with username: sdi2300079 and IP address: 195.134.65.101
-
-Users on linux24:
-THALIS APOSTOLATOS with username: sdi2300010 and IP address: 62.74.17.197
 
 Users on linux27:
 Dimitra Panou with username: std10109 and IP address: :0
