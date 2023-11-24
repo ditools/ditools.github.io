@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 22:30:21 EET 2023
+Last updated: Fri Nov 24 22:35:28 EET 2023
 
 Users on linux01:
 LEWNIDAS-MARKELLOS SARLAS with username: sdi1700135 and IP address: 2.84.197.73
@@ -27,10 +27,10 @@ NIKOLAOS AGGELIS with username: sdi1900306 and IP address: 88.197.88.105
 
 Users on linux20:
 XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 94.67.32.106
-EVGENIA KOZI with username: sdi2000082 and IP address: 94.66.129.126
 
 Users on linux23:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
+ATHANASIOS TRISPIWTIS with username: sdi2000194 and IP address: 2.86.75.23
 
 Users on linux26:
 GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
