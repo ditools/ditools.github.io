@@ -1,46 +1,40 @@
-Last updated: Fri Nov 24 15:01:41 EET 2023
+Last updated: Fri Nov 24 15:06:48 EET 2023
 
 
 Users on linux03:
-KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 88.197.75.81
+KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 
 
 Users on linux06:
-STYLIANI STAMOU with username: sdi2200170 and IP address: 88.197.75.81
-XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 88.197.75.81
+STYLIANI STAMOU with username: sdi2200170 and IP address: 
+XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 
 
 Users on linux07:
-ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 88.197.75.81
+ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 
 
 Users on linux10:
-PANAGIWTIS PATSIATZIS with username: sdi2200145 and IP address: 88.197.75.81
-EVGENIA DRAKOPOULOU with username: sdi1900054 and IP address: 88.197.75.81
+PANAGIWTIS PATSIATZIS with username: sdi2200145 and IP address: 
+EVGENIA DRAKOPOULOU with username: sdi1900054 and IP address: 
 
 Users on linux11:
-XRYSANTHI GKESIOU with username: sdi2200283 and IP address: 88.197.75.81
-MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
+XRYSANTHI GKESIOU with username: sdi2200283 and IP address: 
+MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 
 
 Users on linux12:
-Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
-IWANNIS PETRAKIS with username: sdi1800157 and IP address: 88.197.75.81
-Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
+Nikos Perdikopanis with username: nikosp and IP address: 
+IWANNIS PETRAKIS with username: sdi1800157 and IP address: 
+Nikos Perdikopanis with username: nikosp and IP address: 
 
 Users on linux13:
-ORESTIS GKARANIS with username: sdi2200282 and IP address: 88.197.75.81
-
-Users on linux14:
-NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 88.197.75.81
+ORESTIS GKARANIS with username: sdi2200282 and IP address: 
 
 Users on linux15:
-Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
-
-Users on linux17:
-MARIA SIAKAVELLA with username: sdi1400181 and IP address: 88.197.75.81
+Nikos Perdikopanis with username: nikosp and IP address: 
 
 Users on linux22:
-MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
+MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 
 
 Users on linux24:
-THALIS APOSTOLATOS with username: sdi2300010 and IP address: 88.197.75.81
+THALIS APOSTOLATOS with username: sdi2300010 and IP address: 
 
 Users on linux30:
-ANTONIOS ZACHARAKIS with username: sdi2300047 and IP address: 88.197.75.81
+ANTONIOS ZACHARAKIS with username: sdi2300047 and IP address: 
