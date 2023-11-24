@@ -1,8 +1,5 @@
-Last updated: Fri Nov 24 15:42:33 EET 2023
+Last updated: Fri Nov 24 15:47:41 EET 2023
 
-
-Users on linux02:
-DIMITRIOS POLITIS with username: sdi1700128 and IP address: 195.134.65.101
 
 Users on linux03:
 KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 195.134.65.101
