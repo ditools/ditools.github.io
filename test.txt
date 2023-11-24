@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 16:59:06 EET 2023
+Last updated: Fri Nov 24 17:04:11 EET 2023
 
 
 Users on linux06:
@@ -20,10 +20,6 @@ Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 
-Users on linux14:
-KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.254.227
-KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.254.227
-
 Users on linux15:
 SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 195.134.65.101
 
@@ -32,9 +28,6 @@ ELEFTHERIOS PATSALOS with username: sdi2300232 and IP address: 195.134.65.101
 
 Users on linux23:
 PANTELIS KONTARIS with username: sdi2300079 and IP address: 195.134.65.101
-
-Users on linux27:
-Dimitra Panou with username: std10109 and IP address: localhost
 
 Users on linux29:
 EMMANOYIL KALISPERAKIS with username: sdi2300058 and IP address: localhost
