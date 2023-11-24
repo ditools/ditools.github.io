@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 14:26:02 EET 2023
+Last updated: Fri Nov 24 14:31:06 EET 2023
 
 
 Users on linux02:
@@ -10,6 +10,11 @@ sdi2300146 KONSTANTINOS XANTHOPOYLOS
 Users on linux06:
 sdi2200170 STYLIANI STAMOU
 sdi2000083 XRISTINA KOKKINAKI
+
+Users on linux07:
+linlab Lin Lab
+
+Users on linux08:
 linlab Lin Lab
 
 Users on linux11:
@@ -19,14 +24,14 @@ Users on linux12:
 nikosp Nikos Perdikopanis
 sdi1800157 IWANNIS PETRAKIS
 
+Users on linux14:
+sdi2300208 NIKOLAOS TSOYLOS
+
 Users on linux15:
 nikosp Nikos Perdikopanis
 
 Users on linux17:
 sdi1400181 MARIA SIAKAVELLA
-
-Users on linux18:
-sdi2300042 KLEIO DROMAZOY
 
 Users on linux22:
 sdi2000032 MARIOS GIANNOPOULOS
@@ -40,9 +45,6 @@ sdi2300010 THALIS APOSTOLATOS
 
 Users on linux26:
 sdi2300193 IOANNIS STAYROGIANNIS
-
-Users on linux28:
-linlab Lin Lab
 
 Users on linux30:
 sdi2300047 ANTONIOS ZACHARAKIS
