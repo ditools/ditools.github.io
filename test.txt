@@ -1,8 +1,12 @@
-Last updated: Fri Nov 24 11:42:50 EET 2023
+Last updated: Fri Nov 24 11:47:55 EET 2023
 
 Users on linux01:
 linlab Lin Lab
+linlab Lin Lab
 guest101 Temporary account
+
+Users on linux02:
+linlab Lin Lab
 
 Users on linux06:
 sdi2200170 STYLIANI STAMOU
@@ -16,12 +20,16 @@ sdi2300012 CHRISTOS ATSAVES
 Users on linux10:
 sdi1900054 EVGENIA DRAKOPOULOU
 sdi1900054 EVGENIA DRAKOPOULOU
+sdi1900054 EVGENIA DRAKOPOULOU
 
 Users on linux14:
 sdi2200120 DANAI NTWNTI
 
 Users on linux16:
 sdi2200076 STYLIANOS KOTERMAGER
+
+Users on linux20:
+sdi2200109 IWANNIS MPOGRIS
 
 Users on linux23:
 sdi2300045 ELENI EYSTATHIOY
