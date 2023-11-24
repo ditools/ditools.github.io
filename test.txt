@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 13:25:03 EET 2023
+Last updated: Fri Nov 24 13:30:07 EET 2023
 
 Users on linux01:
 linlab Lin Lab
@@ -16,6 +16,9 @@ sdi2200283 XRYSANTHI GKESIOU
 Users on linux10:
 sdi1900054 EVGENIA DRAKOPOULOU
 sdi1900054 EVGENIA DRAKOPOULOU
+
+Users on linux14:
+sdi2300161 ERRIKOS PAPADIMITRIOY
 
 Users on linux15:
 nikosp Nikos Perdikopanis
@@ -40,6 +43,7 @@ sdi2300212 LAZAROS CHAVATZOGLOY
 
 Users on linux28:
 linlab Lin Lab
+sdi2300105 ILIAS-STYLIANOS LYGAKIS
 
 Users on linux30:
 sdi2300047 ANTONIOS ZACHARAKIS
