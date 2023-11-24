@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 11:53:00 EET 2023
+Last updated: Fri Nov 24 11:58:05 EET 2023
 
 Users on linux01:
 linlab Lin Lab
@@ -31,8 +31,17 @@ sdi2200120 DANAI NTWNTI
 Users on linux16:
 sdi2200076 STYLIANOS KOTERMAGER
 
+Users on linux18:
+sdi2200047 XRISTOS ZAXOS
+
+Users on linux19:
+sdi2200131 STAVROS PANTAZIS
+
 Users on linux23:
 sdi2300045 ELENI EYSTATHIOY
+
+Users on linux24:
+sdi2300055 EIRINI-ELENI IOANNIDOY
 
 Users on linux29:
 sdi2100223 ANTREAS PAVLOU
