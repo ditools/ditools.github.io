@@ -1,8 +1,11 @@
-Last updated: Fri Nov 24 14:05:42 EET 2023
+Last updated: Fri Nov 24 14:10:46 EET 2023
 
 
 Users on linux02:
 sdi2000072 NEFELI KASA
+
+Users on linux03:
+sdi2300146 KONSTANTINOS XANTHOPOYLOS
 linlab Lin Lab
 
 Users on linux06:
@@ -27,9 +30,6 @@ sdi1400181 MARIA SIAKAVELLA
 
 Users on linux18:
 sdi2200047 XRISTOS ZAXOS
-
-Users on linux19:
-sdi2200131 STAVROS PANTAZIS
 
 Users on linux22:
 sdi2000032 MARIOS GIANNOPOULOS
