@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 00:37:37 EET 2023
+Last updated: Sat Nov 25 00:42:42 EET 2023
 
 
 Users on linux07:
@@ -9,9 +9,6 @@ PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux11:
 MARIOS PATROS with username: sdi2200143 and IP address: 89.210.111.183
-
-Users on linux13:
-DANAI MAYROMATI with username: sdi2300119 and IP address: 94.66.181.166
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 2.86.136.216
