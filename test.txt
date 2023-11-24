@@ -1,10 +1,9 @@
-Last updated: Fri Nov 24 13:50:26 EET 2023
+Last updated: Fri Nov 24 13:55:32 EET 2023
 
-Users on linux01:
-linlab Lin Lab
 
 Users on linux02:
 sdi2000072 NEFELI KASA
+linlab Lin Lab
 
 Users on linux06:
 sdi2200170 STYLIANI STAMOU
@@ -38,9 +37,6 @@ sdi2000032 MARIOS GIANNOPOULOS
 Users on linux23:
 sdi2300045 ELENI EYSTATHIOY
 sdi2300212 LAZAROS CHAVATZOGLOY
-
-Users on linux26:
-sdi2300193 IOANNIS STAYROGIANNIS
 
 Users on linux28:
 linlab Lin Lab
