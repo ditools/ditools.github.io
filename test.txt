@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 17:44:56 EET 2023
+Last updated: Fri Nov 24 17:50:03 EET 2023
 
 
 Users on linux02:
@@ -21,13 +21,16 @@ AIKATERINI FOTIA with username: sdi2300211 and IP address: 77.49.75.13
 ATHANASIOS EGNATIADIS with username: sdi2300043 and IP address: 195.134.65.101
 
 Users on linux11:
-Lin Lab with username: linlab and IP address: 195.134.67.234
+MARIOS PATROS with username: sdi2200143 and IP address: 89.210.111.183
 Michail Nikolitsis with username: sdi1400299 and IP address: 185.44.146.104
 
 Users on linux12:
 Lin Lab with username: linlab and IP address: 195.134.67.234
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
+
+Users on linux13:
+Lin Lab with username: linlab and IP address: 195.134.67.234
 
 Users on linux14:
 ALEXANDROS-GASPARIS GRIVAS with username: sdi2300035 and IP address: 195.134.65.101
