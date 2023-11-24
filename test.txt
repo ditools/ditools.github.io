@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 16:54:00 EET 2023
+Last updated: Fri Nov 24 16:59:06 EET 2023
 
 
 Users on linux06:
@@ -21,8 +21,8 @@ Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 
 Users on linux14:
-KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.188.201
-KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.188.201
+KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.254.227
+KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.254.227
 
 Users on linux15:
 SPYRIDON PANAGIOTOY with username: sdi2300153 and IP address: 195.134.65.101
