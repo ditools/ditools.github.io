@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 20:48:28 EET 2023
+Last updated: Fri Nov 24 20:53:34 EET 2023
 
 
 Users on linux02:
@@ -34,9 +34,6 @@ Mema Roussopoulou with username: mema and IP address: 176.92.94.6
 
 Users on linux23:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
-
-Users on linux25:
-GEWRGIOS ZORPIDIS with username: sdi2000055 and IP address: 91.140.88.128
 
 Users on linux26:
 GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
