@@ -1,50 +1,44 @@
-Last updated: Fri Nov 24 14:36:12 EET 2023
+Last updated: Fri Nov 24 14:41:16 EET 2023
 
 
 Users on linux02:
-sdi2000072 NEFELI KASA
+NEFELI KASA with username: sdi2000072 and IP address: 88.197.75.81
 
 Users on linux03:
-sdi2300146 KONSTANTINOS XANTHOPOYLOS
+KONSTANTINOS XANTHOPOYLOS with username: sdi2300146 and IP address: 88.197.75.81
 
 Users on linux06:
-sdi2200170 STYLIANI STAMOU
-sdi2000083 XRISTINA KOKKINAKI
-
-Users on linux09:
-linlab Lin Lab
-
-Users on linux10:
-linlab Lin Lab
+STYLIANI STAMOU with username: sdi2200170 and IP address: 88.197.75.81
+XRISTINA KOKKINAKI with username: sdi2000083 and IP address: 88.197.75.81
 
 Users on linux11:
-sdi2000032 MARIOS GIANNOPOULOS
+MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
 
 Users on linux12:
-nikosp Nikos Perdikopanis
-sdi1800157 IWANNIS PETRAKIS
+Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
+IWANNIS PETRAKIS with username: sdi1800157 and IP address: 88.197.75.81
 
 Users on linux14:
-sdi2300208 NIKOLAOS TSOYLOS
+NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 88.197.75.81
 
 Users on linux15:
-nikosp Nikos Perdikopanis
+Nikos Perdikopanis with username: nikosp and IP address: 88.197.75.81
 
 Users on linux17:
-sdi1400181 MARIA SIAKAVELLA
+MARIA SIAKAVELLA with username: sdi1400181 and IP address: 88.197.75.81
 
 Users on linux22:
-sdi2000032 MARIOS GIANNOPOULOS
+MARIOS GIANNOPOULOS with username: sdi2000032 and IP address: 88.197.75.81
 
 Users on linux23:
-sdi2300012 CHRISTOS ATSAVES
-sdi2300212 LAZAROS CHAVATZOGLOY
+CHRISTOS ATSAVES with username: sdi2300012 and IP address: 88.197.75.81
+LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 88.197.75.81
 
 Users on linux24:
-sdi2300010 THALIS APOSTOLATOS
+THALIS APOSTOLATOS with username: sdi2300010 and IP address: 88.197.75.81
 
 Users on linux26:
-sdi2300193 IOANNIS STAYROGIANNIS
+IOANNIS STAYROGIANNIS with username: sdi2300193 and IP address: 88.197.75.81
 
 Users on linux30:
-sdi2300047 ANTONIOS ZACHARAKIS
+ANTONIOS ZACHARAKIS with username: sdi2300047 and IP address: 88.197.75.81
