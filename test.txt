@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 20:17:53 EET 2023
+Last updated: Fri Nov 24 20:23:00 EET 2023
 
 
 Users on linux02:
@@ -20,9 +20,6 @@ Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 DIMOSTHENIS THEODOSIOY with username: sdi2300051 and IP address: 5.203.193.120
 
-Users on linux14:
-NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 94.65.213.8
-
 Users on linux17:
 NIKOLAOS AGGELIS with username: sdi1900306 and IP address: 88.197.88.105
 
@@ -34,9 +31,6 @@ Mema Roussopoulou with username: mema and IP address: 176.92.94.6
 
 Users on linux23:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
-
-Users on linux24:
-NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
 
 Users on linux25:
 GEWRGIOS ZORPIDIS with username: sdi2000055 and IP address: 91.140.88.128
