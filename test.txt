@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 13:55:32 EET 2023
+Last updated: Fri Nov 24 14:00:36 EET 2023
 
 
 Users on linux02:
@@ -37,6 +37,9 @@ sdi2000032 MARIOS GIANNOPOULOS
 Users on linux23:
 sdi2300045 ELENI EYSTATHIOY
 sdi2300212 LAZAROS CHAVATZOGLOY
+
+Users on linux26:
+sdi2300193 IOANNIS STAYROGIANNIS
 
 Users on linux28:
 linlab Lin Lab
