@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 19:52:24 EET 2023
+Last updated: Fri Nov 24 19:57:29 EET 2023
 
 
 Users on linux02:
@@ -21,7 +21,6 @@ MARIOS PATROS with username: sdi2200143 and IP address: 89.210.111.183
 
 Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
-Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 94.65.213.8
@@ -40,6 +39,9 @@ NIKOLAOS KOYTSOYNIS with username: sdi2300091 and IP address: 85.75.76.208
 
 Users on linux25:
 GEWRGIOS ZORPIDIS with username: sdi2000055 and IP address: 91.140.88.128
+
+Users on linux26:
+GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
 
 Users on linux29:
 ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
