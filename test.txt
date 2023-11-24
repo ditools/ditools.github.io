@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 16:48:55 EET 2023
+Last updated: Fri Nov 24 16:54:00 EET 2023
 
 
 Users on linux06:
@@ -19,10 +19,6 @@ AIKATERINI FOTIA with username: sdi2300211 and IP address: 77.49.75.13
 Users on linux12:
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
 Nikos Perdikopanis with username: nikosp and IP address: 88.197.67.19
-
-Users on linux13:
-DIMITRIOS SKONDRAS-MEKSIS with username: sdi2200161 and IP address: 79.131.254.217
-DIMITRIOS SKONDRAS-MEKSIS with username: sdi2200161 and IP address: 79.131.254.217
 
 Users on linux14:
 KONSTANTINOS KYRIAZIS with username: sdi2300094 and IP address: 5.203.188.201
