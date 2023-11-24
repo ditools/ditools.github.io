@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 21:03:46 EET 2023
+Last updated: Fri Nov 24 21:08:51 EET 2023
 
 
 Users on linux02:
@@ -45,3 +45,6 @@ GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 94.65.111.250
 
 Users on linux29:
 ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
+
+Users on linux30:
+GEWRGIOS-SAVVAS DIMITRIOU with username: sdi1800045 and IP address: 46.177.95.35
