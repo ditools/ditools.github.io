@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 12:13:21 EET 2023
+Last updated: Fri Nov 24 12:18:25 EET 2023
 
 Users on linux01:
 linlab Lin Lab
@@ -19,7 +19,6 @@ Users on linux08:
 sdi2300012 CHRISTOS ATSAVES
 
 Users on linux10:
-sdi1900054 EVGENIA DRAKOPOULOU
 sdi1900054 EVGENIA DRAKOPOULOU
 sdi1900054 EVGENIA DRAKOPOULOU
 
