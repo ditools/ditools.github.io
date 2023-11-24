@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 23:26:22 EET 2023
+Last updated: Fri Nov 24 23:31:27 EET 2023
 
 
 Users on linux02:
@@ -8,7 +8,6 @@ Users on linux07:
 ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.176.119.13
 
 Users on linux08:
-Panagiotis Kappas with username: sdi2100294 and IP address: 46.198.223.91
 PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux10:
