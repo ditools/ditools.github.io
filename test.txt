@@ -1,4 +1,4 @@
-Last updated: Fri Nov 24 21:29:14 EET 2023
+Last updated: Fri Nov 24 21:34:20 EET 2023
 
 
 Users on linux02:
@@ -32,9 +32,6 @@ NIKOLAOS AGGELIS with username: sdi1900306 and IP address: 88.197.88.105
 
 Users on linux20:
 XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 79.129.101.122
-
-Users on linux22:
-Mema Roussopoulou with username: mema and IP address: 176.92.94.6
 
 Users on linux23:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
