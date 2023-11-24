@@ -1,5 +1,7 @@
-Last updated: Fri Nov 24 12:28:35 EET 2023
+Last updated: Fri Nov 24 12:34:12 EET 2023
 
+Users on linux01:
+linlab Lin Lab
 
 Users on linux02:
 sdi2000072 NEFELI KASA
