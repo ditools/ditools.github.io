@@ -1,7 +1,5 @@
-Last updated: Fri Nov 24 12:23:31 EET 2023
+Last updated: Fri Nov 24 12:28:35 EET 2023
 
-Users on linux01:
-linlab Lin Lab
 
 Users on linux02:
 sdi2000072 NEFELI KASA
@@ -30,6 +28,7 @@ sdi2200076 STYLIANOS KOTERMAGER
 
 Users on linux17:
 sdi2200112 DIMITRIOS-NIKOLAOS MPOUTZOUNIS
+sdi2200267 THEODWROS ZOUMPOURLIS
 
 Users on linux18:
 sdi2200047 XRISTOS ZAXOS
