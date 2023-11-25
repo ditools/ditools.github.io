@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 13:55:27 EET 2023
+Last updated: Sat Nov 25 14:00:33 EET 2023
 
 
 Users on linux07:
@@ -31,5 +31,4 @@ Users on linux22:
 CHRISTOS PSOMAS with username: sdi2300217 and IP address: 176.58.137.97
 
 Users on linux29:
-ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
 MIKAELA KOULLOLLI with username: sdi2100071 and IP address: 79.130.83.232
