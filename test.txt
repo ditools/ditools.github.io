@@ -1,10 +1,7 @@
-Last updated: Sat Nov 25 16:18:02 EET 2023
+Last updated: Sat Nov 25 16:23:09 EET 2023
 
 Users on linux01:
 MARINA VENETSANOY with username: sdi2300016 and IP address: 85.74.148.144
-
-Users on linux05:
-ILIAS GASPARINATOS with username: sdi2300020 and IP address: 141.237.222.255
 
 Users on linux07:
 ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.177.142.237
@@ -12,6 +9,7 @@ ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.177.142.237
 Users on linux08:
 PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 ASPASIA PAPAGEWRGIOU with username: sdi2200132 and IP address: 94.66.38.161
+AIKATERINI VASILOPOULOU with username: sdi2000019 and IP address: 77.49.79.181
 
 Users on linux10:
 ANASTASIOS ANTWNOPOULOS with username: sdi1900011 and IP address: 85.74.247.215
@@ -29,3 +27,6 @@ ALEXANDROS MPERTSOYKLIS with username: sdi2300133 and IP address: 176.92.24.99
 
 Users on linux18:
 MARINA VENETSANOY with username: sdi2300016 and IP address: 62.74.18.21
+
+Users on linux22:
+LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
