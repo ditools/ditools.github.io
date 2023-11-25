@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 17:49:44 EET 2023
+Last updated: Sat Nov 25 17:54:50 EET 2023
 
 
 Users on linux03:
@@ -14,6 +14,7 @@ Users on linux12:
 DIMITRIOS ANDREAKIS with username: sdi2300008 and IP address: 94.70.57.13
 ATHANASIOS TZIAXANAS with username: sdi2200184 and IP address: 77.49.61.198
 NIKOLAOS CHRONOPOYLOS with username: sdi2300216 and IP address: 79.107.37.88
+MARIA-THEKLA MICHAIL with username: sdi2300124 and IP address: 91.140.1.101
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 94.65.213.8
