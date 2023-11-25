@@ -1,13 +1,17 @@
-Last updated: Sun Nov 26 01:07:44 EET 2023
+Last updated: Sun Nov 26 01:12:50 EET 2023
 
 Users on linux01:
-DIMITRIOS SKONDRAS-MEKSIS with username: sdi2200161 and IP address: 85.75.76.219
+IOANNIS AMELADIOTIS with username: sdi2300005 and IP address: 79.167.43.37
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
 
+Users on linux04:
+Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
+
 Users on linux05:
 KWSTANTINOS MYRTOLLARI with username: sdi2000148 and IP address: 94.66.57.68
+Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
 
 Users on linux07:
 ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.176.119.13
