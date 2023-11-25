@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 14:36:11 EET 2023
+Last updated: Sat Nov 25 14:41:17 EET 2023
 
 
 Users on linux07:
@@ -18,7 +18,6 @@ ANASTASIOS ANTWNOPOULOS with username: sdi1900011 and IP address: 85.74.247.215
 
 Users on linux12:
 GEORGIOS KALYVAS with username: sdi2300059 and IP address: 94.66.41.114
-DIMITRIOS ANDREAKIS with username: sdi2300008 and IP address: 94.70.57.13
 
 Users on linux14:
 PANAGIOTA NIKOLOYLOPOYLOY with username: sdi2300141 and IP address: 2.84.92.180
