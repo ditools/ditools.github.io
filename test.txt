@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 22:04:15 EET 2023
+Last updated: Sat Nov 25 22:09:21 EET 2023
 
 
 Users on linux03:
@@ -15,7 +15,6 @@ ATHANASIOS TZIAXANAS with username: sdi2200184 and IP address: 77.49.61.198
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 37.6.161.184
 
 Users on linux13:
-KLEIO DROMAZOY with username: sdi2300042 and IP address: 78.87.29.90
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 109.242.226.184
 
 Users on linux17:
