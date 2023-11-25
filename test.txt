@@ -1,5 +1,7 @@
-Last updated: Sun Nov 26 00:27:03 EET 2023
+Last updated: Sun Nov 26 00:32:09 EET 2023
 
+Users on linux01:
+DIMITRIOS SKONDRAS-MEKSIS with username: sdi2200161 and IP address: 85.75.76.219
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
