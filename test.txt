@@ -1,9 +1,10 @@
-Last updated: Sat Nov 25 21:08:15 EET 2023
+Last updated: Sat Nov 25 21:13:20 EET 2023
 
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
 IOANNIS-PANAGIOTIS MPALOMENOS with username: sdi2300129 and IP address: 79.131.96.108
+STEFANOS MOYSTAKLIS with username: sdi2300127 and IP address: 79.131.144.9
 
 Users on linux07:
 ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.176.119.13
