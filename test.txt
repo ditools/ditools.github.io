@@ -1,7 +1,5 @@
-Last updated: Sun Nov 26 01:12:50 EET 2023
+Last updated: Sun Nov 26 01:17:55 EET 2023
 
-Users on linux01:
-IOANNIS AMELADIOTIS with username: sdi2300005 and IP address: 79.167.43.37
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
