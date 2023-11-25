@@ -1,8 +1,5 @@
-Last updated: Sat Nov 25 12:49:17 EET 2023
+Last updated: Sat Nov 25 12:54:22 EET 2023
 
-
-Users on linux03:
-Panagiotis Pantazopoulos with username: ppantaz and IP address: 85.74.144.160
 
 Users on linux07:
 NIKOLAOS STAMATAKIS with username: sdi2200169 and IP address: 188.4.123.233
