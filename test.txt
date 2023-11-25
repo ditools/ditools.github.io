@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 22:44:58 EET 2023
+Last updated: Sat Nov 25 22:50:04 EET 2023
 
 
 Users on linux03:
@@ -11,6 +11,7 @@ Users on linux08:
 PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux12:
+DIMOSTHENIS THEODOSIOY with username: sdi2300051 and IP address: 5.203.193.120
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 37.6.161.184
 
 Users on linux13:
@@ -20,6 +21,7 @@ Users on linux17:
 ALEXANDROS MPERTSOYKLIS with username: sdi2300133 and IP address: 176.92.24.99
 
 Users on linux26:
+GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 79.129.216.214
 ENES-FATIX MOUSTAFA with username: sdi2100109 and IP address: 79.129.178.30
 
 Users on linux29:
