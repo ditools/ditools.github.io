@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 23:40:57 EET 2023
+Last updated: Sat Nov 25 23:46:02 EET 2023
 
 
 Users on linux03:
@@ -21,6 +21,9 @@ ATHANASIOS TRISPIWTIS with username: sdi2000194 and IP address: 2.86.75.23
 
 Users on linux26:
 ENES-FATIX MOUSTAFA with username: sdi2100109 and IP address: 79.129.178.30
+
+Users on linux28:
+Lin Lab with username: linlab and IP address: 195.134.67.234
 
 Users on linux30:
 VASILEIOS TSIMPOS with username: sdi1700172 and IP address: 87.202.126.23
