@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 15:52:35 EET 2023
+Last updated: Sat Nov 25 15:57:40 EET 2023
 
 Users on linux01:
 MARINA VENETSANOY with username: sdi2300016 and IP address: 85.74.148.144
@@ -29,6 +29,3 @@ MARINA VENETSANOY with username: sdi2300016 and IP address: 62.74.18.21
 
 Users on linux27:
 GEWRGIOS PANAGIWTOPOULOS with username: sdi1700113 and IP address: 2.86.63.221
-
-Users on linux29:
-MIKAELA KOULLOLLI with username: sdi2100071 and IP address: 79.130.83.232
