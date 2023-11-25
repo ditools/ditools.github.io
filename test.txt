@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 18:55:54 EET 2023
+Last updated: Sat Nov 25 19:00:58 EET 2023
 
 
 Users on linux03:
@@ -24,9 +24,6 @@ PANAGIOTA NIKOLOYLOPOYLOY with username: sdi2300141 and IP address: 2.84.92.180
 
 Users on linux20:
 XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 94.67.32.106
-
-Users on linux22:
-LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
 
 Users on linux29:
 ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
