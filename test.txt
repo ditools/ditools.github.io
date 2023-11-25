@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 22:14:25 EET 2023
+Last updated: Sat Nov 25 22:19:31 EET 2023
 
 
 Users on linux03:
@@ -16,7 +16,6 @@ IWANNIS PETRAKIS with username: sdi1800157 and IP address: 37.6.161.184
 
 Users on linux13:
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 109.242.226.184
-KLEIO DROMAZOY with username: sdi2300042 and IP address: 78.87.29.90
 
 Users on linux17:
 ALEXANDROS MPERTSOYKLIS with username: sdi2300133 and IP address: 176.92.24.99
