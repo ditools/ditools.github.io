@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 17:44:39 EET 2023
+Last updated: Sat Nov 25 17:49:44 EET 2023
 
 
 Users on linux03:
@@ -11,13 +11,13 @@ Users on linux08:
 PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux12:
+DIMITRIOS ANDREAKIS with username: sdi2300008 and IP address: 94.70.57.13
 ATHANASIOS TZIAXANAS with username: sdi2200184 and IP address: 77.49.61.198
 NIKOLAOS CHRONOPOYLOS with username: sdi2300216 and IP address: 79.107.37.88
 
 Users on linux14:
 NIKOLAOS TSOYLOS with username: sdi2300208 and IP address: 94.65.213.8
 PANAGIOTA NIKOLOYLOPOYLOY with username: sdi2300141 and IP address: 2.84.92.180
-uoa bot with username: uoabot and IP address: 79.129.231.200
 
 Users on linux16:
 ELENI GKOLFI with username: sdi2300031 and IP address: 94.66.38.161
