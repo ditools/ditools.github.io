@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 13:35:04 EET 2023
+Last updated: Sat Nov 25 13:40:11 EET 2023
 
 
 Users on linux07:
@@ -29,7 +29,6 @@ ALEXANDROS MPERTSOYKLIS with username: sdi2300133 and IP address: 176.92.24.99
 
 Users on linux22:
 CHRISTOS PSOMAS with username: sdi2300217 and IP address: 176.58.137.97
-DIMITRIOS TZOYTZOYLIS with username: sdi2300199 and IP address: 78.87.68.98
 
 Users on linux29:
 ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
