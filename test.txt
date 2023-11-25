@@ -1,4 +1,4 @@
-Last updated: Sat Nov 25 22:34:47 EET 2023
+Last updated: Sat Nov 25 22:39:53 EET 2023
 
 
 Users on linux03:
@@ -21,7 +21,6 @@ Users on linux17:
 ALEXANDROS MPERTSOYKLIS with username: sdi2300133 and IP address: 176.92.24.99
 
 Users on linux26:
-GEWRGIOS XARALAMPIDIS with username: sdi1600193 and IP address: 79.129.216.214
 ENES-FATIX MOUSTAFA with username: sdi2100109 and IP address: 79.129.178.30
 
 Users on linux29:
