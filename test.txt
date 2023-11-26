@@ -1,8 +1,5 @@
-Last updated: Sun Nov 26 02:54:36 EET 2023
+Last updated: Sun Nov 26 02:59:40 EET 2023
 
-
-Users on linux03:
-EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
 
 Users on linux04:
 Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
