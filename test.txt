@@ -1,11 +1,8 @@
-Last updated: Sun Nov 26 05:27:05 EET 2023
+Last updated: Sun Nov 26 05:32:09 EET 2023
 
 
 Users on linux04:
 Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
-
-Users on linux07:
-ALEKSANDROS VERYKOKOS with username: sdi1900023 and IP address: 46.176.119.13
 
 Users on linux12:
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 85.72.165.1
