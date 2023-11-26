@@ -1,4 +1,4 @@
-Last updated: Sun Nov 26 14:10:38 EET 2023
+Last updated: Sun Nov 26 14:15:44 EET 2023
 
 
 Users on linux02:
@@ -34,6 +34,3 @@ ATHANASIOS TRISPIWTIS with username: sdi2000194 and IP address: 2.86.75.23
 
 Users on linux25:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
-
-Users on linux29:
-ANTREAS PAVLOU with username: sdi2100223 and IP address: 5.55.89.134
