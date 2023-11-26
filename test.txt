@@ -1,8 +1,5 @@
-Last updated: Sun Nov 26 10:31:58 EET 2023
+Last updated: Sun Nov 26 10:37:02 EET 2023
 
-
-Users on linux02:
-NEFELI KASA with username: sdi2000072 and IP address: 37.6.160.254
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
