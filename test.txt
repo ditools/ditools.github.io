@@ -1,4 +1,4 @@
-Last updated: Sun Nov 26 02:34:14 EET 2023
+Last updated: Sun Nov 26 02:39:19 EET 2023
 
 
 Users on linux03:
@@ -19,7 +19,6 @@ PARASKEVAS MPOKORIS with username: sdi1900126 and IP address: 79.129.234.101
 
 Users on linux09:
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 85.72.165.1
-Vasilios Roussos with username: std07224 and IP address: 89.210.47.178
 
 Users on linux12:
 IWANNIS PETRAKIS with username: sdi1800157 and IP address: 85.72.165.1
