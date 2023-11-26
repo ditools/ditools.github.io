@@ -1,4 +1,4 @@
-Last updated: Sun Nov 26 18:09:56 EET 2023
+Last updated: Sun Nov 26 18:15:01 EET 2023
 
 Users on linux01:
 ATHANASIOS NIKOLETAS with username: sdi2300140 and IP address: 2.84.185.176
@@ -6,6 +6,7 @@ ARISTEIDIS DOUZENIS with username: sdi2200242 and IP address: 79.130.68.78
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
+CHRISTOS MPRIASOULIS with username: sdi2100269 and IP address: 46.176.115.79
 
 Users on linux07:
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 2.84.222.116
@@ -15,10 +16,12 @@ Users on linux14:
 ATHANASIOS NIKOLETAS with username: sdi2300140 and IP address: 2.84.185.176
 
 Users on linux20:
+XRISTOS PRINTZIOS with username: sdi2100166 and IP address: 94.67.32.106
 KONSTANTINOS-RAFAIL PENTARAKIS with username: sdi2300168 and IP address: 195.251.4.187
 
 Users on linux23:
 ATHANASIOS TRISPIWTIS with username: sdi2000194 and IP address: 2.86.75.23
+ALEXANDROS KARDOYLIAS with username: sdi2300065 and IP address: 176.92.42.142
 
 Users on linux25:
 LAZAROS CHAVATZOGLOY with username: sdi2300212 and IP address: 79.167.119.64
