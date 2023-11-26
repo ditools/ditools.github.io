@@ -56,7 +56,7 @@ fetch('data.txt')
 
 			const distances = names.map(name => ({
 				name,
-				distance: leven(inputValue, name.toLowerCase())
+				distance: leven(inputValue, name.toLowerCase().slice(0, inputValue.length))
 			}));
 			// Sort names by least Levenshtein distance
 			const sortedNames = distances.sort((a, b) => a.distance - b.distance);
