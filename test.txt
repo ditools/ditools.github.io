@@ -1,10 +1,7 @@
-Last updated: Sun Nov 26 03:50:31 EET 2023
+Last updated: Sun Nov 26 03:55:37 EET 2023
 
 
 Users on linux04:
-Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
-
-Users on linux05:
 Dionysios Kwtsakhs with username: grad1320 and IP address: 213.16.208.238
 
 Users on linux07:
