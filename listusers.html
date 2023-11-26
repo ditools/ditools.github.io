@@ -18,6 +18,9 @@
 
 	<!-- Link the CSS file -->
 	<link rel="stylesheet" href="style.css">
+	<!-- Google Material Icons gia to refresh -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 
 	<title>DiTools</title>
 </head>
@@ -42,9 +45,16 @@
 			</button>
 		</div>
 	</nav>
+	
 	<div class="userContainer">
-		<h1 style="text-align:center">Users on DIT Linux machines</h1>
-		<h3 class="greyLetters">Linux machines that don't show up here are either empty or offline.</h3>
+		<div class='parent grid-parent'>
+			<div class="child ">
+				<h1 style="text-align:center">Users on DIT Linux machines</h1>
+				<h3 class="greyLetters">Linux machines that don't show up here are either empty or offline.</h3>
+			</div>
+			<button class="child" onClick="window.location.reload();" style="height: 50px; width: 50px; border-radius: 100px; padding: 0px;"><span class="material-icons">cached</span></button>
+
+		</div>
 		<div>
 			<iframe src="https://cgi.di.uoa.gr/~sdi2300208/test.txt"></iframe>
 		</div>
