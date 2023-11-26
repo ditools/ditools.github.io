@@ -8,6 +8,10 @@
     max-width: 600px;
     margin-top: 150px;
 }
+.gradient {
+    background: rgb(110,164,191);
+    background: linear-gradient(90deg, rgba(110,164,191,1) 0%, rgba(0,255,229,1) 100%);
+}
 .userContainer {
     background-color: #fff;
     padding: 20px;
