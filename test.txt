@@ -1,7 +1,10 @@
-Last updated: Sun Nov 26 13:14:39 EET 2023
+Last updated: Sun Nov 26 13:19:44 EET 2023
 
 Users on linux01:
 Vasileios Liakopoulos with username: sdi1100097 and IP address: 94.66.117.212
+
+Users on linux02:
+LEWNIDAS-MARKELLOS SARLAS with username: sdi1700135 and IP address: 2.84.197.73
 
 Users on linux03:
 EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
