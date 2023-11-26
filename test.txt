@@ -1,10 +1,7 @@
-Last updated: Sun Nov 26 17:49:34 EET 2023
+Last updated: Sun Nov 26 17:54:39 EET 2023
 
 Users on linux01:
 ATHANASIOS NIKOLETAS with username: sdi2300140 and IP address: 2.84.185.176
-
-Users on linux03:
-EFSTRATIOS XRONOPOULOS with username: sdi1600203 and IP address: 79.130.69.221
 
 Users on linux07:
 ANASTASIOS MOUMOULIDIS with username: sdi2100108 and IP address: 2.84.222.116
