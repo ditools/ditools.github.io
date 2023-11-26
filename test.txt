@@ -1,4 +1,4 @@
-Last updated: Sun Nov 26 09:10:40 EET 2023
+Last updated: Sun Nov 26 09:15:44 EET 2023
 
 
 Users on linux04:
@@ -9,6 +9,3 @@ IWANNIS PETRAKIS with username: sdi1800157 and IP address: 85.72.165.1
 
 Users on linux14:
 uoa bot with username: uoabot and IP address: 85.74.215.102
-
-Users on linux26:
-ENES-FATIX MOUSTAFA with username: sdi2100109 and IP address: 79.129.178.30
