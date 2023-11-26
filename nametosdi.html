@@ -17,6 +17,9 @@
 	<!-- Link the CSS file -->
 	<link rel="stylesheet" href="style.css">
 	<title>Leaderboard</title>
+	<script>var exports = {};</script>
+	<script src="leven.js"></script>
+
 </head>
 
 <body>
@@ -45,6 +48,8 @@
 	<div class="container">
 		<h1>Name to SDI</h1>
 		<input type="text" id="nameInput" placeholder="Enter name" onkeydown="handleEnter(event)">
+		<div id="autocomplete-results"></div>
+
 		<div class="search-buttons">
 			<button onclick="getSdiByFullName()">Get SDI</button>
 		</div>
