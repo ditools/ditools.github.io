@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+	<script>
+  	  function resizeIframe(obj) {
+            obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+          }
+        </script>
 	<meta http-equiv="cache-control" content="no-cache, must-revalidate, post-check=0, pre-check=0">
 	<meta http-equiv="expires" content="0">
 	<meta http-equiv="pragma" content="no-cache">
@@ -46,7 +51,7 @@
 		<h1 style="text-align:center">Users on DIT Linux machines</h1>
 		<h3 class="greyLetters">Linux machines that don't show up here are either empty or offline.</h3>
 		<div>
-			<iframe src="test.txt"></iframe>
+			<iframe src="test.txt" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 		</div>
 	</div>
 </body>
