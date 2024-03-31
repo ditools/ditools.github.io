@@ -5,11 +5,14 @@ function getFullName() {
   if (!sdi) {
     return;
   }
+  if (sdi.startsWith('1115')) {
+    sdi = sdi.slice(6); // Remove the 'sdi' prefix
+  }
   fetch('./data.txt')
     .then(response => response.text())
     .then(data => {
       const parsedData = parseData(data);
-      const matchingData = parsedData.find(item => item.sdi.toLowerCase() === sdi);
+      const matchingData = parsedData.find(item => item.sdi.toLowerCase() === sdi || item.sdi.toLowerCase() === `sdi${sdi}`);
       if (matchingData) {
         fullNameResult.innerHTML = `<p>Full Name: ${matchingData.fullName}</p>`;
       } else {
