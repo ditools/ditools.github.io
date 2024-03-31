@@ -1,7 +1,7 @@
 function getFullName() {
   const sdiInput = document.getElementById('sdiInput');
   const fullNameResult = document.getElementById('fullNameResult');
-  const sdi = sdiInput.value.trim().toLowerCase();
+  let sdi = sdiInput.value.trim().toLowerCase();
   if (!sdi) {
     return;
   }
