@@ -20,7 +20,6 @@ cotronis Yiannis Cotronis
 martakos Drakoulis Martakos
 mara Mara Nikolaidou
 fouskaki Costas Fouskakis (APPLAUSE project)
-applause APPLAUSE project
 geogyf George Gyftodimos
 ddimitr Dimitris Dimitrelos
 georgiad Panagiotis Georgiadis
@@ -134,7 +133,6 @@ npat Patavalis Nikos
 arkas Dimitris Varoutas
 ytsia Yiorgos Tsiatouhas
 gkats Ioannis Katsigiannis
-refine REFINE project Afrodite Tsalgatidou)
 zervas Evangelos Zervas
 rubi Roubini Dimopoulou
 phoebus Phoebus Vilanakis
@@ -171,7 +169,6 @@ sven Sotiris Venardos
 mimika Dimitra Koutra
 yannis Yannis Ioannidis
 iosifidi Constantinos Iosifidis
-euromed Project Euromed (Theodoridis)
 ghudoba Gyoryy Hudoba (Theodoridis)
 gguorok Gyoryy Guorok (Theodoridis)
 ipapag Ioannis Papageorgiou (Misirlis)
@@ -225,7 +222,6 @@ tsambika Tsambika Karakiza
 ebatag Euthimia Batagianni
 blairb Blair Benjamin
 stratis Stratis Viglas
-addsia ADDSIA Project
 tsamp Aristotelis Tsampoulas
 pfountou Polina Fountoulaki
 mvoulgar Maria Voulgari
@@ -299,7 +295,6 @@ sfiris Nikos Sfiris
 liavas Athanasios Liavas
 marsam Maria Samarakou
 ganagno Giorgos Anagnostopoulos
-simulati Simulation Project
 yzaxarop Ioannis Zaxaropoulos
 ntzios Kostas Ntzios
 epatta Pittas Vagellas
@@ -406,7 +401,6 @@ syspro Syspro account
 bafias Petros Bafias
 achar Anastasia Charcharidou
 rkal Oyrania Kalantzi
-emfasys EMFASYS Project
 rizop Panagiotis Rizomyliotis
 marian3 Marianna Vlastou
 szimfoni Schubert Takas
